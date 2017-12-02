@@ -1,0 +1,1 @@
+Before start spaming set cursor, where will appear captcha checkbox, or wait, before captcha will appear and set cursor
